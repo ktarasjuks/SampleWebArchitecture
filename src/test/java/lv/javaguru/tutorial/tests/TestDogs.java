@@ -7,7 +7,7 @@ public class TestDogs {
 
     @Test
     public void findAPuppy() throws InterruptedException {
-        String driverPath = ("C:\\Users\\Tarkon\\IdeaProjects\\ForTutorial\\src\\main\\resources\\");
+        String driverPath = ("C:\\Users\\tarkon\\IdeaProjects\\SampleWebArchitecture\\src\\test\\resources\\");
         System.setProperty("webdriver.chrome.driver", driverPath + "chromedriver.exe");
         ChromeDriver driver = new ChromeDriver();
         driver.get("https://www.ss.com/");
