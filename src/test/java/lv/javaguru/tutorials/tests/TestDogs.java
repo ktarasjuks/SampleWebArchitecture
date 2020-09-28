@@ -1,4 +1,4 @@
-package lv.javaguru.tutorial.tests;
+package lv.javaguru.tutorials.tests;
 
 import org.junit.Test;
 import org.openqa.selenium.chrome.ChromeDriver;

@@ -1,6 +1,6 @@
-package stepDefinitions;
+package lv.javaguru.tutorials.stepDefinitions;
 
-import helpers.Common;
+import lv.javaguru.tutorials.helpers.Common;
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;

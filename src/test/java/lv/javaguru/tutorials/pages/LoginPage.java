@@ -1,7 +1,7 @@
-package lv.javaguru.tutorial.pages;
+package lv.javaguru.tutorials.pages;
 
-import lv.javaguru.tutorial.common.Common;
-import lv.javaguru.tutorial.models.User;
+import lv.javaguru.tutorials.common.Common;
+import lv.javaguru.tutorials.models.User;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 

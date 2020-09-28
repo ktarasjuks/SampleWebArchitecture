@@ -1,4 +1,4 @@
-package stepDefinitions;
+package lv.javaguru.tutorials.stepDefinitions;
 
 import io.cucumber.java.en.Then;
 

@@ -1,4 +1,4 @@
-package lv.javaguru.tutorial.tests;
+package lv.javaguru.tutorials.tests;
 
 import lv.javaguru.tutorial.pages.DogPage;
 import lv.javaguru.tutorial.pages.HomePage;

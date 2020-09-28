@@ -1,4 +1,4 @@
-package lv.javaguru.tutorial.models;
+package lv.javaguru.tutorials.models;
 
 public class User {
 

@@ -1,6 +1,6 @@
-package lv.javaguru.tutorial.pages;
+package lv.javaguru.tutorials.pages;
 
-import lv.javaguru.tutorial.common.Common;
+import lv.javaguru.tutorials.helpers.Common;
 import org.openqa.selenium.By;
 
 public class HomePage extends Common {

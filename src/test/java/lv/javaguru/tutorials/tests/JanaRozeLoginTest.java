@@ -1,10 +1,7 @@
-package lv.javaguru.tutorial.tests;
+package lv.javaguru.tutorials.tests;
 
-import lv.javaguru.tutorial.common.Common;
-import lv.javaguru.tutorial.models.User;
-import lv.javaguru.tutorial.pages.LoginPage;
+import lv.javaguru.tutorials.pages.LoginPage;
 import org.junit.Test;
-import org.openqa.selenium.By;
 
 import static org.assertj.core.api.Assertions.assertThat;
 

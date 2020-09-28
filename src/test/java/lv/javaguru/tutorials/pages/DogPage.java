@@ -1,6 +1,6 @@
-package pages;
+package lv.javaguru.tutorials.pages;
 
-import helpers.Common;
+import lv.javaguru.tutorials.helpers.Common;
 import org.openqa.selenium.By;
 
 public class DogPage extends Common {

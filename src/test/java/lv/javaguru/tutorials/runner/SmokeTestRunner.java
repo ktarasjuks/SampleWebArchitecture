@@ -1,4 +1,4 @@
-package runner;
+package lv.javaguru.tutorials.runner;
 
 import io.cucumber.junit.Cucumber;
 import io.cucumber.junit.CucumberOptions;
@@ -8,7 +8,7 @@ import org.junit.runner.RunWith;
 @CucumberOptions(
         tags = "@SmokeTest",
         features="src/test/resources",
-        glue="stepDefinitions")
+        glue= "lv/javaguru/tutorials/stepDefinitions")
 public class SmokeTestRunner {
 
 }
